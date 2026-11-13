@@ -6,6 +6,6 @@ import supabase as sb
 
 st.set_page_config(
     page_title="EduSphere",
-    page_icon=os.path.join(os.path.dirname(__file___), "logo.png"),
+    page_icon=os.path.join(os.path.dirname(__file__), "logo.png"),
     layout="wide",
 )
